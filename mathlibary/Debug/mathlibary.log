@@ -1,0 +1,9 @@
+﻿  Utils.cpp
+c:\users\s189066\source\repos\mathlibary\mathlibary\utils.cpp(15): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s189066\source\repos\mathlibary\mathlibary\utils.cpp(18): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s189066\source\repos\mathlibary\mathlibary\utils.cpp(21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s189066\source\repos\mathlibary\mathlibary\utils.cpp(24): warning C4715: 'clamp': not all control paths return a value
+c:\users\s189066\source\repos\mathlibary\mathlibary\utils.cpp(47): warning C4715: 'abs': not all control paths return a value
+c:\users\s189066\source\repos\mathlibary\mathlibary\utils.cpp(97): warning C4715: 'assert': not all control paths return a value
+c:\users\s189066\source\repos\mathlibary\mathlibary\utils.cpp(109): warning C4715: 'assert': not all control paths return a value
+  mathlibary.vcxproj -> C:\Users\s189066\source\repos\mathlibary\Debug\mathlibary.lib
