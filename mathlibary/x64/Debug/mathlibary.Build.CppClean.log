@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.pdb
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.idb
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\vec4.obj
@@ -16,3 +17,23 @@ c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\m
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\lib-link.read.1.tlog
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\lib-link.write.1.tlog
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\lib.command.1.tlog
+=======
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.pdb
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.idb
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\vec4.obj
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\vec3.obj
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\vec2.obj
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\utils.obj
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\matrices.obj
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\colors.obj
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\transform2d.obj
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mat3.obj
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\x64\debug\mathlibary.lib
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\x64\debug\mathlibary.pdb
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\cl.command.1.tlog
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\cl.read.1.tlog
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\cl.write.1.tlog
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\lib-link.read.1.tlog
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\lib-link.write.1.tlog
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\x64\debug\mathlibary.tlog\lib.command.1.tlog
+>>>>>>> 7e36e498667ef64f17f89994ad4b5955f3a43392

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿  Utils.cpp
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(18): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
@@ -7,3 +8,14 @@ c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\m
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(50): warning C4715: 'mathbois::abs': not all control paths return a value
 c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(100): warning C4715: 'assert': not all control paths return a value
   mathlibary.vcxproj -> C:\Users\s189066\Downloads\MathLibandUnitTest-master\MathLibandUnitTest-master\mathlibary\x64\Debug\mathlibary.lib
+=======
+﻿  Utils.cpp
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(18): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(24): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(158): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(27): warning C4715: 'mathbois::clamp': not all control paths return a value
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(50): warning C4715: 'mathbois::abs': not all control paths return a value
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\mathlibary\utils.cpp(100): warning C4715: 'assert': not all control paths return a value
+  mathlibary.vcxproj -> C:\Users\s189066\Downloads\MathLibandUnitTest-master\MathLibandUnitTest-master\mathlibary\x64\Debug\mathlibary.lib
+>>>>>>> 7e36e498667ef64f17f89994ad4b5955f3a43392

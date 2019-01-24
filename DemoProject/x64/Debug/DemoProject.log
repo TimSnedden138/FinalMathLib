@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿  main.cpp
   tankBarrel.cpp
 c:\users\s189066\source\repos\mathlibary\demoproject\tankbarrel.cpp(20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
@@ -11,3 +12,11 @@ c:\users\s189066\source\repos\mathlibary\demoproject\tankbody.cpp(16): warning C
 c:\users\s189066\source\repos\mathlibary\demoproject\tankbody.cpp(16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   Generating Code...
   DemoProject.vcxproj -> C:\Users\s189066\source\repos\mathlibary\x64\Debug\DemoProject.exe
+=======
+﻿  tankBarrel.cpp
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\demoproject\tankbarrel.cpp(20): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\demoproject\tankbarrel.cpp(20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\demoproject\tankbarrel.cpp(21): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\demoproject\tankbarrel.cpp(21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DemoProject.vcxproj -> C:\Users\s189066\Downloads\MathLibandUnitTest-master\MathLibandUnitTest-master\mathlibary\x64\Debug\DemoProject.exe
+>>>>>>> 7e36e498667ef64f17f89994ad4b5955f3a43392

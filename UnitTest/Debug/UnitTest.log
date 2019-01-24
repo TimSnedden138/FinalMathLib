@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿  main.cpp
 c:\users\s189066\source\repos\mathlibary\unittest\main.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
   UnitTest.vcxproj -> C:\Users\s189066\source\repos\mathlibary\Debug\UnitTest.exe
+=======
+﻿  main.cpp
+c:\users\s189066\source\repos\mathlibary\unittest\main.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
+  UnitTest.vcxproj -> C:\Users\s189066\source\repos\mathlibary\Debug\UnitTest.exe
+>>>>>>> 7e36e498667ef64f17f89994ad4b5955f3a43392
