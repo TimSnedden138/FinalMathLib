@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\s189066\downloads\mathlibandunittest-master\mathlibandunittest-master\mathlibary\unittest\main.cpp(140): warning C4305: 'argument': truncation from 'double' to 'float'
+  UnitTest.vcxproj -> C:\Users\s189066\Downloads\MathLibandUnitTest-master\MathLibandUnitTest-master\mathlibary\x64\Debug\UnitTest.exe
