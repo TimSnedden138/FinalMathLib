@@ -1,9 +1,35 @@
-<<<<<<< HEAD
 ﻿  main.cpp
-c:\users\s189066\source\repos\mathlibary\unittest\main.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
-  UnitTest.vcxproj -> C:\Users\s189066\source\repos\mathlibary\Debug\UnitTest.exe
-=======
-﻿  main.cpp
-c:\users\s189066\source\repos\mathlibary\unittest\main.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
-  UnitTest.vcxproj -> C:\Users\s189066\source\repos\mathlibary\Debug\UnitTest.exe
->>>>>>> 7e36e498667ef64f17f89994ad4b5955f3a43392
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec2.h(69): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec2.h(74): error C2011: 'vec2': 'struct' type redefinition
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\vec2.h(5): note: see declaration of 'vec2'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec2.h(138): error C2059: syntax error: '>>'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec3.h(42): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec3.h(47): error C2011: 'vec3': 'class' type redefinition
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\vec3.h(5): note: see declaration of 'vec3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec3.h(84): error C2059: syntax error: '>>'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec4.h(43): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec4.h(48): error C2011: 'vec4': 'class' type redefinition
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\vec4.h(6): note: see declaration of 'vec4'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec4.h(85): error C2059: syntax error: '>>'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mat3.h(10): error C2079: 'mat3::<unnamed-tag>::xAxis' uses undefined class 'vec3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mat3.h(11): error C2079: 'mat3::<unnamed-tag>::yAxis' uses undefined class 'vec3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mat3.h(12): error C2079: 'mat3::<unnamed-tag>::zAxis' uses undefined class 'vec3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mat3.h(14): error C2079: 'mat3::axis' uses undefined class 'vec3'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xstring_insert.h(17): error C2059: syntax error: 'namespace'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xstring_insert.h(17): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xstring_insert.h(17): error C2447: '{': missing function header (old-style formal list?)
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(82): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(83): error C2014: preprocessor command must start as first nonwhite space
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(93): error C2143: syntax error: missing ';' before '{'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(93): error C2447: '{': missing function header (old-style formal list?)
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(130): error C2995: 'bool assert(const char *,T,T)': function template has already been defined
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(41): note: see declaration of 'assert'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(150): error C2995: 'T lerp1(const T &,const T &,float)': function template has already been defined
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(65): note: see declaration of 'lerp1'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(157): error C2995: 'T lerp2(const T &,const T &,float)': function template has already been defined
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(72): note: see declaration of 'lerp2'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(163): error C2995: 'T lerp3(const T &,const T &,float)': function template has already been defined
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(78): note: see declaration of 'lerp3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(164): error C2059: syntax error: '>>'
+c:\users\s189066\source\repos\finalmathlib\unittest\main.cpp(7): error C2143: syntax error: missing ';' before '{'
+c:\users\s189066\source\repos\finalmathlib\unittest\main.cpp(7): error C2447: '{': missing function header (old-style formal list?)

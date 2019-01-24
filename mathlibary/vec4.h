@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #pragma once
 #include<cfloat>
 #include<cmath>

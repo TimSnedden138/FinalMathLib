@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿#pragma once
 #include<iostream>
 #include"vec2.h"

@@ -178,18 +178,7 @@
 #define KEY_X                88
 #define KEY_Y                89
 #define KEY_Z                90
-// Keypad keys
-#define KEY_KP_0  320
-#define KEY_KP_1  321
-#define KEY_KP_2  322
-#define KEY_KP_4  324
-#define KEY_KP_5  325
-#define KEY_KP_3  323
-#define KEY_KP_6  326
-#define KEY_KP_7  327
-#define KEY_KP_8  328
-#define KEY_KP_9  329
-#define KEY_KP_ADD 334
+
 // Android Physical Buttons
 #define KEY_BACK              4
 #define KEY_MENU             82
@@ -298,7 +287,7 @@
 
 // Some Basic Colors
 // NOTE: Custom raylib color palette for amazing visuals on WHITE background
-   // Light Gray
+#define LIGHTGRAY  CLITERAL{ 200, 200, 200, 255 }   // Light Gray
 #define GRAY       CLITERAL{ 130, 130, 130, 255 }   // Gray
 #define DARKGRAY   CLITERAL{ 80, 80, 80, 255 }      // Dark Gray
 #define YELLOW     CLITERAL{ 253, 249, 0, 255 }     // Yellow

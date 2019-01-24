@@ -1,7 +1,168 @@
-<<<<<<< HEAD
 ﻿  main.cpp
-  RaylibTesting.vcxproj -> C:\Users\s189066\source\repos\mathlibary\Debug\RaylibTesting.exe
-=======
-﻿  main.cpp
-  RaylibTesting.vcxproj -> C:\Users\s189066\source\repos\mathlibary\Debug\RaylibTesting.exe
->>>>>>> 7e36e498667ef64f17f89994ad4b5955f3a43392
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec2.h(69): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec2.h(74): error C2011: 'vec2': 'struct' type redefinition
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\vec2.h(5): note: see declaration of 'vec2'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec2.h(138): error C2059: syntax error: '>>'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec3.h(42): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec3.h(47): error C2011: 'vec3': 'class' type redefinition
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\vec3.h(5): note: see declaration of 'vec3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec3.h(84): error C2059: syntax error: '>>'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec4.h(43): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec4.h(48): error C2011: 'vec4': 'class' type redefinition
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\vec4.h(6): note: see declaration of 'vec4'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\vec4.h(85): error C2059: syntax error: '>>'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mat3.h(10): error C2079: 'mat3::<unnamed-tag>::xAxis' uses undefined class 'vec3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mat3.h(11): error C2079: 'mat3::<unnamed-tag>::yAxis' uses undefined class 'vec3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mat3.h(12): error C2079: 'mat3::<unnamed-tag>::zAxis' uses undefined class 'vec3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mat3.h(14): error C2079: 'mat3::axis' uses undefined class 'vec3'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xstring_insert.h(17): error C2059: syntax error: 'namespace'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xstring_insert.h(17): error C2143: syntax error: missing ';' before '{'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.14.26428\include\xstring_insert.h(17): error C2447: '{': missing function header (old-style formal list?)
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(82): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(83): error C2014: preprocessor command must start as first nonwhite space
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(93): error C2143: syntax error: missing ';' before '{'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(93): error C2447: '{': missing function header (old-style formal list?)
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(130): error C2995: 'bool assert(const char *,T,T)': function template has already been defined
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(41): note: see declaration of 'assert'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(150): error C2995: 'T lerp1(const T &,const T &,float)': function template has already been defined
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(65): note: see declaration of 'lerp1'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(157): error C2995: 'T lerp2(const T &,const T &,float)': function template has already been defined
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(72): note: see declaration of 'lerp2'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(163): error C2995: 'T lerp3(const T &,const T &,float)': function template has already been defined
+  c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(78): note: see declaration of 'lerp3'
+c:\users\s189066\source\repos\finalmathlib\mathlibary\mathutil.h(164): error C2059: syntax error: '>>'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(344): error C2143: syntax error: missing ';' before '{'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(344): error C2447: '{': missing function header (old-style formal list?)
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(457): error C3646: 'offset': unknown override specifier
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(457): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(458): error C3646: 'target': unknown override specifier
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(458): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(781): error C2146: syntax error: missing ')' before identifier 'mousePosition'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(782): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(782): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(782): error C2146: syntax error: missing ';' before identifier 'GetWorldToScreen'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(852): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(852): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(852): error C2146: syntax error: missing ';' before identifier 'GetMousePosition'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(853): error C2146: syntax error: missing ')' before identifier 'position'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(860): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(860): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(860): error C2146: syntax error: missing ';' before identifier 'GetTouchPosition'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(870): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(870): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(870): error C2146: syntax error: missing ';' before identifier 'GetGestureDragVector'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(872): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(872): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(872): error C2146: syntax error: missing ';' before identifier 'GetGesturePinchVector'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(892): error C2146: syntax error: missing ')' before identifier 'position'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(894): error C2146: syntax error: missing ')' before identifier 'startPos'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(895): error C2146: syntax error: missing ')' before identifier 'startPos'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(896): error C2146: syntax error: missing ')' before identifier 'startPos'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(899): error C2146: syntax error: missing ')' before identifier 'center'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(902): error C2146: syntax error: missing ')' before identifier 'position'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(904): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(910): error C2146: syntax error: missing ')' before identifier 'v1'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(911): error C2146: syntax error: missing ')' before identifier 'v1'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(912): error C2146: syntax error: missing ')' before identifier 'center'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(913): error C2065: 'points': undeclared identifier
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(913): error C2062: type 'int' unexpected
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(914): error C2065: 'points': undeclared identifier
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(914): error C2062: type 'int' unexpected
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(918): error C2146: syntax error: missing ')' before identifier 'center1'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(919): error C2146: syntax error: missing ')' before identifier 'center'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(921): error C2146: syntax error: missing ')' before identifier 'point'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(922): error C2146: syntax error: missing ')' before identifier 'point'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(923): error C2146: syntax error: missing ')' before identifier 'point'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(964): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(965): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(966): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(995): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(996): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(997): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(998): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1015): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1019): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1019): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1019): error C2146: syntax error: missing ';' before identifier 'MeasureTextEx'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1040): error C2061: syntax error: identifier 'Vector2'
+  player.cpp
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(1): error C2059: syntax error: '<<'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(344): error C2143: syntax error: missing ';' before '{'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(344): error C2447: '{': missing function header (old-style formal list?)
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(457): error C3646: 'offset': unknown override specifier
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(457): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(458): error C3646: 'target': unknown override specifier
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(458): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(781): error C2146: syntax error: missing ')' before identifier 'mousePosition'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(782): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(782): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(782): error C2146: syntax error: missing ';' before identifier 'GetWorldToScreen'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(852): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(852): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(852): error C2146: syntax error: missing ';' before identifier 'GetMousePosition'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(853): error C2146: syntax error: missing ')' before identifier 'position'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(860): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(860): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(860): error C2146: syntax error: missing ';' before identifier 'GetTouchPosition'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(870): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(870): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(870): error C2146: syntax error: missing ';' before identifier 'GetGestureDragVector'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(872): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(872): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(872): error C2146: syntax error: missing ';' before identifier 'GetGesturePinchVector'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(892): error C2146: syntax error: missing ')' before identifier 'position'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(894): error C2146: syntax error: missing ')' before identifier 'startPos'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(895): error C2146: syntax error: missing ')' before identifier 'startPos'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(896): error C2146: syntax error: missing ')' before identifier 'startPos'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(899): error C2146: syntax error: missing ')' before identifier 'center'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(902): error C2146: syntax error: missing ')' before identifier 'position'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(904): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(910): error C2146: syntax error: missing ')' before identifier 'v1'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(911): error C2146: syntax error: missing ')' before identifier 'v1'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(912): error C2146: syntax error: missing ')' before identifier 'center'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(913): error C2065: 'points': undeclared identifier
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(913): error C2062: type 'int' unexpected
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(914): error C2065: 'points': undeclared identifier
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(914): error C2062: type 'int' unexpected
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(918): error C2146: syntax error: missing ')' before identifier 'center1'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(919): error C2146: syntax error: missing ')' before identifier 'center'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(921): error C2146: syntax error: missing ')' before identifier 'point'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(922): error C2146: syntax error: missing ')' before identifier 'point'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(923): error C2146: syntax error: missing ')' before identifier 'point'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(964): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(965): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(966): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(995): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(996): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(997): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(998): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1015): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1019): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1019): error C2086: 'int Vector2': redefinition
+  c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(347): note: see declaration of 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1019): error C2146: syntax error: missing ';' before identifier 'MeasureTextEx'
+c:\users\s189066\source\repos\finalmathlib\thirdparty\raylib\raylib.h(1040): error C2061: syntax error: identifier 'Vector2'
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(6): error C3646: 'pos': unknown override specifier
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(9): error C2059: syntax error: '=='
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(13): error C3769: 'player': a nested class cannot have the same name as the immediately enclosing class
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(13): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.cpp(4): error C2535: 'void player::update(float)': member function already defined or declared
+  c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(7): note: see declaration of 'player::update'
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.cpp(9): error C2535: 'void player::draw(void)': member function already defined or declared
+  c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(8): note: see declaration of 'player::draw'
+c:\users\s189066\source\repos\finalmathlib\raylibtesting\player.h(5): fatal error C1075: '{': no matching token found
+  Generating Code...

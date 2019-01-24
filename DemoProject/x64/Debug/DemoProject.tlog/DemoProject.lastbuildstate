@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17134.0
-Debug|x64|C:\Users\s189066\source\repos\mathlibary\|
-=======
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17134.0
-Debug|x64|C:\Users\s189066\Downloads\MathLibandUnitTest-master\MathLibandUnitTest-master\mathlibary\|
->>>>>>> 7e36e498667ef64f17f89994ad4b5955f3a43392
+Debug|x64|C:\Users\s189066\source\repos\FinalMathLib\|
